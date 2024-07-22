@@ -1,0 +1,24 @@
+{
+  "name": "test_dotenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin5112/test_dotenv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin5112/test_dotenv/issues"
+  },
+  "homepage": "https://github.com/kevin5112/test_dotenv#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
